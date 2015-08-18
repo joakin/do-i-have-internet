@@ -5,7 +5,7 @@ Simple `npm` based cli for knowing when the internet goes up or down.
 Useful for diagnosing network cuts or instability in a simple way.
 
 ```
-npm install -g doihaveinternet
+npm install -g do-i-have-internet
 ```
 
 Needs `ping` available on the system.
