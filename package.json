@@ -1,6 +1,6 @@
 {
   "name": "do-i-have-internet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "keep pinging google and show if internet is available",
   "main": "index.js",
   "preferGlobal": true,
