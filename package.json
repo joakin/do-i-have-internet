@@ -8,7 +8,7 @@
     "doihaveinternet": "cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape test/*"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,9 @@
   "dependencies": {
     "lodash": "^3.10.1",
     "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "array-range": "^1.0.1",
+    "tape": "^4.2.0"
   }
 }
