@@ -15,7 +15,7 @@ are online. When offline, it backs to try every second.
 
 ```
 # Starting with the internet off, and turning it on and off
-$ doihaveinternet
+$ do-i-have-internet # or doihaveinternet
 DOWN 8/18/2015 12:57:52 PM
 UP 8/18/2015 12:58:02 PM
 DOWN 8/18/2015 12:58:12 PM

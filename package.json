@@ -5,7 +5,8 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "doihaveinternet": "cli.js"
+    "doihaveinternet": "cli.js",
+    "do-i-have-internet": "cli.js"
   },
   "scripts": {
     "test": "tape test/*"
