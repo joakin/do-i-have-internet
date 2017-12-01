@@ -1,6 +1,6 @@
 {
   "name": "do-i-have-internet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "keep pinging and show if internet is available",
   "main": "index.js",
   "preferGlobal": true,
@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/joakin/do-i-have-internet.git"
   },
-  "keywords": ["internet", "ping", "cli"],
+  "keywords": [
+    "internet",
+    "ping",
+    "cli"
+  ],
   "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
   "license": "ISC",
   "bugs": {
