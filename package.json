@@ -1,7 +1,7 @@
 {
   "name": "do-i-have-internet",
   "version": "1.0.2",
-  "description": "keep pinging google and show if internet is available",
+  "description": "keep pinging and show if internet is available",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
@@ -12,25 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joakin/doihaveinternet.git"
+    "url": "git+https://github.com/joakin/do-i-have-internet.git"
   },
-  "keywords": [
-    "internet",
-    "ping",
-    "cli"
-  ],
+  "keywords": ["internet", "ping", "cli"],
   "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/joakin/do-i-have-internet/issues"
   },
   "homepage": "https://github.com/joakin/do-i-have-internet#readme",
-  "dependencies": {
-    "lodash": "^3.10.1",
-    "xtend": "^4.0.0"
-  },
-  "devDependencies": {
-    "array-range": "^1.0.1",
-    "tape": "^4.2.0"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
